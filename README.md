@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Frozzexx
 - 👀 I’m interested in Web-Design
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Frozzexx
 
 <!---
