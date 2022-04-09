@@ -1,0 +1,94 @@
+.header{
+    font-size: xx-large;
+    background-image: url(img/1\ ecran.png);
+    height: 800px;
+    background-repeat: no-repeat;
+}
+
+header{
+    display: flex;
+}
+#s1{
+    margin-left: 100px;
+    color: white;
+}
+#s2{
+    margin-left: 30%;
+    color: white;
+}
+#s3{
+    margin-left: 5%;
+    color: white;
+}
+#s4{
+    margin-left: 5%;
+    color: white;
+}
+.bigspan{
+    color: white;
+    font-size: 60px;
+    display: block;   
+}
+#ws1{
+    color: white;
+    margin-left: 250px;
+}
+#ws2{
+    color: wheat;
+    margin-left: 250px;
+}
+#wsd1{
+    display: flex;
+    justify-content: space-around;
+   
+}
+#wsd2{
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 150px;
+}
+
+.wsd1{
+    display: flex;
+    margin-top: 400px;
+    justify-content: space-between;
+}
+.bigdiv{
+    width: 100%;
+    height:350px;
+    background-color: black;
+}
+.img1{
+    color: white;
+    margin-top: 6%;
+    margin-left: 44%;
+}
+#swe{
+    display: block;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+}
+.bigdiv2{
+    width: 100%;
+    height:350px;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+}
+#se1{
+    color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#se2{
+    color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#se3{
+    color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+}
